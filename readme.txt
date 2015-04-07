@@ -1,1 +1,1 @@
-Practise to use branch, please!
+Practise to use the git branch, please!
